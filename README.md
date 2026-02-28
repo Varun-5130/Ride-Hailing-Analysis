@@ -1,4 +1,7 @@
 🚖 Uber Ride Analysis
+csv dataset-https://gitlab.crio.do/me_notebook/me_jupyter_uberanalysis/-/raw/master/Uber_ride_analysis_dataset.csv
+
+
 📌 Project Overview
 
 The Uber Ride Analysis project focuses on analyzing ride-sharing data to uncover patterns in trip frequency, peak hours, ride purposes, and customer behavior.
